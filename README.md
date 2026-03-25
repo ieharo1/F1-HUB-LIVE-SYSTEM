@@ -1,8 +1,5 @@
 # 🏎️ F1 Hub Live System
 
-<p align="center">
-  <img src="https://img.icons8.com/color/200/racing-helmet.png" alt="F1 Hub Logo" width="200"/>
-</p>
 
 ---
 
